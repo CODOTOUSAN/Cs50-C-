@@ -1,0 +1,2 @@
+Cs50 C language fundamentals
+Had a very diffucult time adding the C_fund.c file to my git repository. Turns out you nee to add your files below the .gitattributes files in order for it to be recognized/added to your repository

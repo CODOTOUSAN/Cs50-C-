@@ -7,8 +7,9 @@ int main(void)
     while (n < 1)
     {
         n = get_int("Size: ");
-    }*/
-   
+    }
+   */
+  // Prompt user for positive integer
     int n;
     do
     {
@@ -17,7 +18,7 @@ int main(void)
     while (n < 1);
 
 
-
+// Print an n-by-n grid of bricks
         for (int i = 0; i < n; i++)
         {
 
