@@ -4,6 +4,8 @@
 
  int main(void)
  {
+  //Prompting user for name
   string answer = string("What is your name?\n");
+  //Returning a value of name
   printf("Hello, %s\n" answer);
  }
