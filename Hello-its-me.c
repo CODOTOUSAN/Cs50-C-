@@ -17,6 +17,6 @@ int main()
 int main(void)
 if int + 3, 
 {
-printf("sideways\n");
+printf("sideways deez nuts\n");
 
 }
