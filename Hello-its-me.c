@@ -15,7 +15,7 @@ int main()
   return 0;
 }
 int main(void)
-if int + 3, 
+if int + 3, 5, 6 
 {
 printf("sideways deez nuts\n");
 
