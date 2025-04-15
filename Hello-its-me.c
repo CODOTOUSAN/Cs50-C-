@@ -11,7 +11,7 @@
  }*/
 int main()
 {
-  printf("Hello world!"\n);
+  printf("Hello world yes i can!"\n);
   return 0;
 }
 int main(void)
